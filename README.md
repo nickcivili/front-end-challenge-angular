@@ -7,11 +7,11 @@ This project is designed to take a few hours to complete and test your knowledge
 
 ## Getting Started
 * Fork the project on github
-* Ensure that you have Angular installed and running locally (with all its dependencies), you can use their setup doc (here)[https://angular.io/guide/setup-local] as a reference
+* Ensure that you have Angular installed and running locally (with all its dependencies), you can use their setup doc [here](https://angular.io/guide/setup-local) as a reference
 * Run `npm i` to install dependencies
 * Create an empty file named `database.json` in the `server` directory at the root of the project
 * Generate some test data by running the `generate` script
-* Start your (`json-server` server)[https://www.npmjs.com/package/json-server] to serve the generated data by running the `server` script
+* Start your [`json-server` server](https://www.npmjs.com/package/json-server) to serve the generated data by running the `server` script
 * Develop according to spec
 
 ## Development server
