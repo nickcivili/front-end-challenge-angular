@@ -14,6 +14,8 @@ This project is designed to take a few hours to complete and test your knowledge
 * Start your [`json-server` server](https://www.npmjs.com/package/json-server) to serve the generated data by running the `server` script
 * Develop according to spec
 
+## Sample spec
+![A single page application with a navigation item on the sidebar that takes you to an address book. The main content being a representation of the list of addresses served by the server, each displayed as a Material card.](AngularSampleSpec.png?raw=true)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
